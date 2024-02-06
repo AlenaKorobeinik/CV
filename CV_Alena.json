@@ -1,0 +1,99 @@
+{
+   "firstName":"Alena",
+   "secondName":"Korobeinik",
+   "age":29,
+   "position":"QA Middle+",
+   "phoneNumber":"+375291110055",
+   "location":"Belarus, Minsk",
+   "hardSkills":[
+      "API testing",
+      "Salesforce Administration",
+      "Mobile testing(IOS/Androind)",
+      "Manual testing",
+      "English: B1",
+      "Jira",
+      "Test Rail",
+      "Virtual Machine",
+      "Testing estimations",
+      "Mentoring"
+   ],
+   "softSkills":[
+      "Leadership",
+      "Team management",
+      "Emotional intellect",
+      "Empathy",
+      "Critical thinking",
+      "Risk assessment",
+      "Curiosity",
+      "Information gathering"
+   ],
+   "email":[
+      "korobejnikalena@gmail.com"
+   ],
+   "language":[
+      "Russian",
+      "English"
+   ],
+   "workExperience":[
+      {
+         "Company":"Belhard",
+         "position":"Junior QA",
+         "startDate":"2018-10-01",
+         "endDate":"2019-04-30",
+         "isworkingnow":false,
+         "responsibilities":[
+            "Mobile testing",
+            "Web testing",
+            "API testing",
+            "Documentation writing",
+            "Communication with team members and stakeholders"
+         ]
+      },
+      {
+         "Company":"Code Inspiration",
+         "position":"Junior QA",
+         "startDate":"2019-05-20",
+         "endDate":"2019-10-01",
+         "isworkingnow":false,
+         "responsibilities":[
+            "Mobile testing",
+            "Web testing",
+            "API testing",
+            "Documentation writing",
+            "Communication with team members and stakeholders"
+         ]
+      },
+      {
+         "Company":"VRP Condulting",
+         "position":"Middle QA",
+         "startDate":"2019-10-01",
+         "endDate":"2023-09-29",
+         "isworkingnow":false,
+         "responsibilities":[
+            "Salesforce Administration",
+            "Documentation writing",
+            "Communication with team members and stakeholders"
+         ]
+      },
+      {
+         "Company":"Fin.by",
+         "position":"QA Team Lead",
+         "startDate":"2023-11-27",
+         "endDate":"",
+         "isworkingnow":true,
+         "responsibilities":[
+            "Salesforce Administration",
+            "Documentation writing",
+            "Communication with team members and stakeholders",
+            "Organizating testing process"
+         ]
+      }
+   ],
+   "education":"Belarusian state university, Faculty of International Relations, Department of Customs Affairs",
+   "links":"https://www.linkedin.com/in/alyona-korobeynik-796469168/",
+   "certificates":"Belhard Academy: QA. Professional level",
+   "interest":[
+      "singing",
+      "music"
+   ]
+}
